@@ -1,0 +1,16 @@
+
+/*A sample program in c
+written by p.ebinesar dated 05-05-2025
+this is a multi line command*/
+
+
+//  single line command
+
+#include <stdio.h>
+
+int main()
+{
+    printf("hello world");//output the hello world o the console
+    
+    return 0;//this is return 0
+}
