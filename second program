@@ -1,0 +1,18 @@
+/*A sample program in c
+written by p.ebinesar dated 05-05-2025
+this is a multi line command*/
+
+
+//  single line command
+
+#include <stdio.h>
+
+int main()
+{
+    int a,b,sum;
+    printf("enter two numbers");//output the hello orld to the console
+    scanf("%d %d",&a, &b);
+    sum=a+b;
+    printf("sum = %d ",sum);
+    return 0;//this is return 0 
+}
